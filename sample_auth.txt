@@ -1,0 +1,9 @@
+Mar 01 10:01:12 server sshd[1111]: Failed password for invalid user admin from 203.0.113.10 port 51122 ssh2
+Mar 01 10:01:18 server sshd[1112]: Failed password for root from 203.0.113.10 port 51123 ssh2
+Mar 01 10:01:25 server sshd[1113]: Failed password for root from 203.0.113.10 port 51124 ssh2
+Mar 01 10:01:31 server sshd[1114]: Failed password for root from 203.0.113.10 port 51125 ssh2
+Mar 01 10:02:10 server sshd[1115]: Accepted password for user1 from 198.51.100.25 port 53311 ssh2
+Mar 01 10:03:44 server sshd[1116]: Failed password for invalid user test from 203.0.113.77 port 60001 ssh2
+Mar 01 10:03:50 server sshd[1117]: Failed password for invalid user test from 203.0.113.77 port 60002 ssh2
+Mar 01 10:03:55 server sshd[1118]: Failed password for invalid user test from 203.0.113.77 port 60003 ssh2
+Mar 01 10:04:01 server sshd[1119]: Failed password for invalid user test from 203.0.113.77 port 60004 ssh2
